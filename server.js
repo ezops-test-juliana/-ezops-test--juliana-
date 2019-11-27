@@ -65,7 +65,7 @@ app.post('/messages', async (req, res) => {
     return console.log('error',error);
   }
   finally{
-    console.log('Mensagem Publicada'')
+    console.log('Mensagem Publicada')
   }
 
 })
